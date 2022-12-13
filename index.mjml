@@ -1,0 +1,140 @@
+<mjml owa="desktop" lang="en">
+    <mj-head>
+        <mj-title>le col clone email</mj-title>
+        <mj-font name="Roboto" href="https://fonts.googleapis.com/css2?family=Roboto" />
+        <mj-attributes>
+            <mj-all padding="0" />
+            <mj-button href="#" color="#000" border-radius="0px" background-color="#fff" align="left" font-size="16px" font-family="Arial, sans-serif" inner-padding="8px 25px" border="1px solid black" line-height="22px" font-weight="bold" text-transform="uppercase" />
+            <mj-text font-size="16px" line-height="25px" color="#333333" font-family="'Roboto', Arial, sans-serif"/>
+            <mj-section  background-color="#fff"  padding="0 20px"/>
+            <mj-image href="#" />
+        </mj-attributes>
+        <mj-style>
+            a {
+                text-decoration: none;
+                color: white;
+            }
+            .mobile-image {
+                display: none;
+            }
+        </mj-style>
+        <mj-style>
+            @media only screen and (max-width:504px) {
+                .mobile-image {
+                    display: table;
+                }
+                .desktop-image {
+                    display: none;
+                }
+                .colors img {
+                    width: 49px !important;
+                    max-width: 9.8% !important;
+                }
+            }
+        </mj-style>
+    </mj-head>
+    <mj-body width="660px" background-color="#d9d9d9">
+        <!--Logo Section-->
+        <mj-section padding-top="48px" padding-bottom="40px">
+            <mj-column>
+                <mj-image src="https://i.emlfiles4.com/cmpimg/9/7/9/6/4/2/files/717355_lecollogo.png" width="140px" />
+            </mj-column>
+        </mj-section>
+        <!--Hero Image-->
+        <mj-section padding="0" padding-bottom="30px">
+            <mj-column>
+                <mj-image src="https://i.emlfiles4.com/cmpimg/9/7/9/6/4/2/files/1264193_aw22_aqua_zero_email_2.png" />
+            </mj-column>
+        </mj-section>
+        <!--Title, text and button-->
+        <mj-section padding-bottom="35px">
+            <mj-column>
+                <mj-text font-size="20px" line-height="22px" font-weight="bold" padding-bottom="20px">
+                    <p style="Margin:0;">New Season Aqua Zero</p>
+                </mj-text>
+                <mj-text padding-bottom="30px">
+                    <p style="Margin:0;">The ultimate multi-season performance jersey for fast-paced riding in varying weather conditions.</p>
+                </mj-text>
+                <mj-button>
+                    shop now
+                </mj-button>
+            </mj-column>
+        </mj-section>
+        <!--Image-->
+        <mj-section>
+            <mj-column>
+                <mj-image css-class="desktop-image" src="https://i.emlfiles4.com/cmpimg/9/7/9/6/4/2/files/1264194_aw22_aqua_zero_email_3.png"/>
+                <mj-image css-class="mobile-image" src="https://i.emlfiles4.com/cmpimg/9/7/9/6/4/2/files/1264195_aw22_aqua_zero_email_4.png"/>
+            </mj-column>
+        </mj-section>
+        <!--Colors-->
+        <mj-section padding="25px 20px 30px">
+            <mj-column>
+                <mj-text font-size="0" line-height="0" css-class="colors">
+                    <a href="#"  style="Margin-right:26px;"><img src="https://i.emlfiles4.com/cmpimg/9/7/9/6/4/2/files/1144810_best_sellers_email21.png" width="37" style="max-width:6%;"/></a>
+                    <a href="#" style="Margin-right:26px;"><img src="https://i.emlfiles4.com/cmpimg/9/7/9/6/4/2/files/1259406_aw22_email_ls_pro_jersey_and_pro_thermal_bib_short.png" width="37" style="max-width:6%;"/></a>
+                    <a href="#" style="Margin-right:26px;"><img src="https://i.emlfiles4.com/cmpimg/9/7/9/6/4/2/files/1144812_best_sellers_email23.png" width="37" style="max-width:6%;"/></a>
+                    <a href="#"><img src="https://i.emlfiles4.com/cmpimg/9/7/9/6/4/2/files/1144813_best_sellers_email24.png" width="37" style="max-width:6%;"/></a>
+                </mj-text>
+            </mj-column>
+        </mj-section>
+        <!--Button-->
+        <mj-section padding-bottom="45px">
+            <mj-column>
+                <mj-button>
+                    shop now
+                </mj-button>
+            </mj-column>
+        </mj-section>
+        
+        <!--Divider-->
+        <mj-section padding-bottom="40px">
+            <mj-column>
+                <mj-divider border-width="1px" />
+            </mj-column>    
+        </mj-section>
+        <!--Text, image and button-->
+        <mj-section>
+            <mj-column>
+                <mj-text padding-bottom="20px">
+                    Built to resist water absorption and insulate the core when needed, the jersey works with your body to keep you comfortable when temperatures change.
+                </mj-text>
+                <mj-image css-class="desktop-image" src="https://i.emlfiles4.com/cmpimg/9/7/9/6/4/2/files/1264202_aw22_aqua_zero_email_11.png" />
+                <mj-image css-class="mobile-image" src="https://i.emlfiles4.com/cmpimg/9/7/9/6/4/2/files/1264203_aw22_aqua_zero_email_12.png" />
+                <mj-button padding="30px 0 50px 0">
+                    shop now
+                </mj-button>
+            </mj-column>
+        </mj-section>4
+        <!--Footer-->
+        <mj-section background-color="#000" padding-top="46px" padding-bottom="20px">
+            <mj-column>
+                <mj-image href="" src="https://i.emlfiles4.com/cmpimg/9/7/9/6/4/2/files/109809_vectorsmartobject2x.png" width="270px"/>
+                <mj-image padding-top="40px" src="https://i.emlfiles4.com/cmpimg/9/7/9/6/4/2/files/109806_logo2x.png" width="140px"/>
+            </mj-column>
+        </mj-section>
+        <mj-section background-color="#000">
+            <mj-column>
+                <mj-text align="center" font-size="0" line-height="0">
+                    <a href="#"><img src="https://i.emlfiles4.com/cmpimg/9/7/9/6/4/2/files/717351_fb.png" width="33" style="max-width:20.8%;"/></a>
+                    <img src="https://i.emlfiles4.com/cmpimg/t/s.gif" style="max-width:5.6%;" width="12"/>
+                    <a href="#"><img src="https://i.emlfiles4.com/cmpimg/9/7/9/6/4/2/files/717354_twitter.png" width="33" style="max-width:20.8%;"/></a>
+                    <img src="https://i.emlfiles4.com/cmpimg/t/s.gif" style="max-width:5.6%;" width="12"/>
+                    <a href="#"><img src="https://i.emlfiles4.com/cmpimg/9/7/9/6/4/2/files/717352_insta.png" width="33" style="max-width:20.8%;"/></a>
+                    <img src="https://i.emlfiles4.com/cmpimg/t/s.gif" style="max-width:5.6%;" width="12"/>
+                    <a href="#"><img src="https://i.emlfiles4.com/cmpimg/9/7/9/6/4/2/files/717353_strava.png" width="33" style="max-width:20.8%;"/></a>
+                </mj-text>
+            </mj-column>
+        </mj-section>
+        <mj-section background-color="#000" padding-bottom="46px" padding-top="50px">
+            <mj-column>
+                <mj-text align="center" font-size="11px" line-height="17px">
+                    <a href="#" >View in browser</a>
+                </mj-text>
+                <mj-text align="center" font-size="11px" line-height="18px" padding-top="20px">
+                    <a href="#">Contact us<a/>&nbsp;&nbsp;|&nbsp;&nbsp;<a href="#">Privacy policy<a/>&nbsp;&nbsp;|&nbsp;&nbsp;<a href="#">Unsubscribe<a/>
+                </mj-text>
+            </mj-column>
+        </mj-section>
+    </mj-body>
+</mjml>
