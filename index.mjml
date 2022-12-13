@@ -131,7 +131,7 @@
                 <mj-text align="center" font-size="11px" line-height="17px">
                     <a href="#" >View in browser</a>
                 </mj-text>
-                <mj-text align="center" font-size="11px" line-height="18px" padding-top="20px">
+                <mj-text align="center" font-size="11px" line-height="18px" color="white" padding-top="20px">
                     <a href="#">Contact us<a/>&nbsp;&nbsp;|&nbsp;&nbsp;<a href="#">Privacy policy<a/>&nbsp;&nbsp;|&nbsp;&nbsp;<a href="#">Unsubscribe<a/>
                 </mj-text>
             </mj-column>
